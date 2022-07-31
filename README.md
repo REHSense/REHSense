@@ -1,4 +1,4 @@
-### Hi there 👋
+## 50 Relevant Wi-Fi CSI-based Sensing Works
 
 <!--
 **REHSense/REHSense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,3 +56,20 @@ Here are some ideas to get you started:
 |WiStep: Device-free Step Counting with WiFi Signals. ([ACM IMWUT'17](https://dl.acm.org/doi/10.1145/3161415))|Intel 5300|$&#x2718$|$\checkmark$|
 |WiDir: Walking Direction Estimation Using Wireless Signals. ([UbiComp'16](https://dl.acm.org/doi/pdf/10.1145/2971648.2971658)|Intel 5300|$\checkmark$|$\checkmark$|
 |Contact-free wheat mildew detection with commodity wifi. ([IJCCE'22](https://www.sciencedirect.com/science/article/pii/S2666307422000018))|Atheros|$\checkmark$|$\checkmark$|
+|MultiAuth: Enable Multi-User Authentication with Single Commodity WiFi Device. ([MobiHoc'21](https://dl.acm.org/doi/abs/10.1145/3466772.3467032))|Atheros|$\checkmark$|$\checkmark$|
+|WiBorder: Precise Wi-Fi based Boundary Sensing via Through-wall Discrimination. ([ACM IMWUT'20](https://dl.acm.org/doi/10.1145/3411834))|Intel 5300|$\checkmark$|$\checkmark$|
+|WiCount: A Deep Learning Approach for Crowd Counting Using WiFi Signals. ([ISPA/IUCC'17](https://ieeexplore.ieee.org/document/8367378))|Intel 5300|$\checkmark$|$\checkmark$|
+|Understanding and Modeling of WiFi Signal Based Human Activity Recognition. ([MobiCom'15](https://dl.acm.org/doi/10.1145/2789168.2790093))|Intel 5300|$&#x2718$|$\checkmark$|
+|WiDriver: Driver Activity Recognition System Based on WiFi CSI. ([IJWIN'17](https://link.springer.com/content/pdf/10.1007/s10776-018-0389-0.pdf))|Atheros|$\checkmark$|$\checkmark$|
+|WiFace: Facial Expression Recognition Using Wi-Fi Signals. ([IEEE TMC'20](https://ieeexplore.ieee.org/document/9115830))|Intel 5300|$&#x2718$|$\checkmark$|
+|RT-Fall: A Real-Time and Contactless Fall Detection System with Commodity WiFi Devices. ([IEEE TMC'16](https://ieeexplore.ieee.org/abstract/document/7458198))|Intel 5300|$&#x2718$|$\checkmark$|
+|FingerPass: Finger Gesture-based Continuous User Authentication for Smart Homes Using Commodity WiFi. ([MobiHoc'19](https://dl.acm.org/doi/10.1145/3323679.3326518))|Intel 5300|$&#x2718$|$\checkmark$|
+|Continuous Authentication Through Finger Gesture Interaction for Smart Homes Using WiFi. ([IEEE TMC'20](https://ieeexplore.ieee.org/document/9097296))|Intel 5300|$&#x2718$|$\checkmark$|
+|FingerDraw: Sub-wavelength Level Finger Motion Tracking with WiFi Signals. ([ACM IMWUT'20](https://dl.acm.org/doi/10.1145/3380981))|Intel 5300|$\checkmark$|$\checkmark$|
+|Free Your CSI: A Channel State Information Extraction Platform For Modern Wi-Fi Chipsets. ([WiNTECH'19](https://dl.acm.org/doi/10.1145/3349623.3355477))|Smartphone|Firmware upgrade|Firmware upgrade|
+|WiPhone: Smartphone-based Respiration Monitoring Using Ambient Reflected WiFi Signals. ([ACM IMWUT'21](https://dl.acm.org/doi/10.1145/3448092))|Smartphone|Firmware upgrade|Firmware upgrade|
+
+## 11 Wi-Fi NICs for Wi-Fi-based Sensing
+### Intel 5300 (1) [Details](https://dhalperi.github.io/linux-80211n-csitool/)
+### Qualcomm Atheros Series (7) [Details](https://wands.sg/research/wifi/AtherosCSI/DeviceList.html)
+### PicoScenes (3) [Details](https://ps.zpj.io/hardware.html)
